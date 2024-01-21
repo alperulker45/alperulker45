@@ -15,3 +15,17 @@ Here are some ideas to get you started:
 <div align="center">
  <img src="https://github.com/alperulker45/alperulker45/blob/main/G%C3%BCvercinlik_Do%C4%9Fa_Manzaras%C4%B1.jpg" width="60%" height="60%" >
 </div>
+
+<div id="badges" align="center">
+    <a href="linkedinADRESINIZI YAZIN">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" >
+    </a>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+ <div id="badges" align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=emryduman&style=flat-square&color=blue" alt="viewCounter"/>
+</div>
+<h1 align="center">
+     SELAMLAR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
