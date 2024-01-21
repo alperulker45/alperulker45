@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <img src="https://github.com/alperulker45/alperulker45/blob/main/gorselLinki" width="60%" height="60%" >
+ <img src="https://github.com/alperulker45/alperulker45/blob/main/G%C3%BCvercinlik_Do%C4%9Fa_Manzaras%C4%B1.jpg" width="60%" height="60%" >
 </div>
