@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
+<!--### Hi there 👋
 **alperulker45/alperulker45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+ <img src="https://github.com/alperulker45/alperulker45/blob/main/gorselLinki" width="60%" height="60%" >
+</div>
